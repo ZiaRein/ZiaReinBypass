@@ -1,8 +1,8 @@
 {
-	"name": "ZiaRein",
+	"name": "James",
 	"version": "1.0.6",
-	"description": "A simple Facebook Messenger Bot By ZiaRein",
-	"main": "ZiaRein.js",
+	"description": "Facebook Messenger By James",
+	"main": "james.js",
 	"scripts": {
 		"start": "node index.js",
 		"login": "node login",
@@ -10,24 +10,24 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/ZiaRein/ZiaReinBypass/issues"
+		"url": "https://github.com/jameslimthxx/Jamesxx/issues"
 	},
 	"keywords": [
 		"bot",
 		"facebook",
 		"projectmirai",
-		"ziarein",
+		"jamesss",
 		"mirai",
 		"catalizcs",
 		"spermlord",
 		"miraipr0ject"
 	],
-	"author": "Zia Rein",
+	"author": "James",
 	"license": "GPL-3.0",
 	"bugs": {
-		"url": "https://github.com/ZiaRein/ZiaReinBypass/issues"
+		"url": "https://github.com/jamesthxx/Jamesxx/issues"
 	},
-	"homepage": "https://github.com/ZiaRein/ZiaReinBypass/issues",
+	"homepage": "https://github.com/jamesthxx/Jamesxx/issues",
 	"dependencies": {
 		"@miraipr0ject/assets": "",
 		"@replit/database": "^2.0.2",
